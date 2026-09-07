@@ -1,3 +1,3 @@
 Nama : Gita
 NRP : 5025251032
-Umur : 19
+Prodi : Informatika
