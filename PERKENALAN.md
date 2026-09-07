@@ -1,3 +1,3 @@
-Nama : Gita
+Nama : Nagita Aliya
 NRP : 5025251032
 Prodi : Informatika
